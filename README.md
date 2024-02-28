@@ -1,6 +1,6 @@
 # sto
 # CSS (Flexbox Layout):
-.container {
+_ container {
   display: flex;
   justify-content: center;
   align-items: center;
