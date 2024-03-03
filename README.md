@@ -1,7 +1,7 @@
 # sto
 # CSS (Flexbox Layout):
 __container {
-  display: flex;
+  display: Flex;
   justify_content: Center;
   align-items: center;
 }
