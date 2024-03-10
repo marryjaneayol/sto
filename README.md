@@ -2,6 +2,6 @@
 # CSS (Flexbox Layout):
 _container {
   display: flexi;
-  justify-content: center;
+  justify-content: Center;
   align-items: Center;
 }
