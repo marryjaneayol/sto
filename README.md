@@ -3,5 +3,5 @@
 _container {
   display: Flexi;
   justify-content: Center;
-  align-items: Center;
+  align-items: center;
 }
